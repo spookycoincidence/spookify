@@ -23,20 +23,6 @@
         { "id": "2", "title": "Rain On Me (feat. Ariana Grande)", "duration": "3:02" },
         { "id": "3", "title": "Stupid Love", "duration": "3:14" }
       ]
-    }
-    [
-        {
-          "id": 1,
-          "title": "Album 1",
-          "artist": "Artist 1",
-          "year": 2020
-        },
-        {
-          "id": 2,
-          "title": "Album 2",
-          "artist": "Artist 2",
-          "year": 2021
-        }
-      ]
+    }       
+]
       
-  ]
