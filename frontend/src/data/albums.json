@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "title": "The Fame Monster",
+      "cover": "/assets/the-fame-monster.jpg",
+      "songs": [
+        { "id": "1", "title": "Bad Romance", "duration": "4:54" },
+        { "id": "2", "title": "Alejandro", "duration": "4:34" },
+        { "id": "3", "title": "Dance in the Dark", "duration": "4:49" },
+        { "id": "4", "title": "Monster", "duration": "4:09" },
+        { "id": "5", "title": "Speechless", "duration": "4:30" },
+        { "id": "6", "title": "Telephone (feat. Beyoncé)", "duration": "3:40" },
+        { "id": "7", "title": "So Happy I Could Die", "duration": "3:55" },
+        { "id": "8", "title": "Teeth", "duration": "3:40" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Chromatica",
+      "cover": "/assets/chromatica.jpg",
+      "songs": [
+        { "id": "1", "title": "911", "duration": "2:52" },
+        { "id": "2", "title": "Rain On Me (feat. Ariana Grande)", "duration": "3:02" },
+        { "id": "3", "title": "Stupid Love", "duration": "3:14" }
+      ]
+    }
+    [
+        {
+          "id": 1,
+          "title": "Album 1",
+          "artist": "Artist 1",
+          "year": 2020
+        },
+        {
+          "id": 2,
+          "title": "Album 2",
+          "artist": "Artist 2",
+          "year": 2021
+        }
+      ]
+      
+  ]
