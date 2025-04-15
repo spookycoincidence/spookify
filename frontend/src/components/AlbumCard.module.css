@@ -1,0 +1,27 @@
+.card {
+    background-color: #1B263B;
+    border-radius: 12px;
+    overflow: hidden;
+    width: 150px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    text-align: center;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .cover {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .title {
+    padding: 0.5rem;
+    color: #E0E1DD;
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
+  

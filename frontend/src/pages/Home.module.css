@@ -1,0 +1,20 @@
+.container {
+    padding: 2rem;
+    background-color: #0D1B2A;
+    min-height: 100vh;
+  }
+  
+  .heading {
+    color: #E0E1DD;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+  }
+  

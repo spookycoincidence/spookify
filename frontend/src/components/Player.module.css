@@ -1,0 +1,41 @@
+.player {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #1B263B;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+    font-size: 0.9rem;
+  }
+  
+  .song {
+    font-weight: bold;
+  }
+  
+  .album {
+    font-size: 0.8rem;
+    color: #778DA9;
+  }
+  
+  .playButton {
+    background-color: #778DA9;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  
+  .playButton:hover {
+    background-color: #E0E1DD;
+    color: #1B263B;
+  }
+  
