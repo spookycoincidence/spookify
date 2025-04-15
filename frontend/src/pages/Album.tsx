@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
-import { useParams } from 'react-router-dom';
-import albumsData from '../data/albums.json';
-import Player from '../components/Player';
+import React, { useState } from "react";
+import { useParams } from "react-router-dom";
+import albumsData from "../data/albums.json";
+import Player from "../components/Player";
 import styles from './Album.module.css';
 
 const Album: React.FC = () => {
@@ -25,8 +25,8 @@ const Album: React.FC = () => {
             className={styles.songItem}
             onClick={() => setCurrentSong(song)}
             style={{
-              backgroundColor: song.id === currentSong?.id ? '#1B263B' : '',
-              cursor: 'pointer',
+              backgroundColor: song.id === currentSong?.id ? "#1B263B" : "",
+              cursor: "pointer",
             }}
           >
             <span>{song.title}</span>
@@ -42,4 +42,3 @@ const Album: React.FC = () => {
 };
 
 export default Album;
-

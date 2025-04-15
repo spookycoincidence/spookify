@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Born This Way",
+    "cover": "/assets/born-this-way.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Chromatica",
+    "cover": "/assets/chromatica.jpg"
+  },
+  {
+    "id": "3",
+    "title": "The Fame Monster",
+    "cover": "/assets/the-fame-monster.jpg"
+  }
+] 
